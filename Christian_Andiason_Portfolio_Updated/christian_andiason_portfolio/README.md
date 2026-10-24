@@ -43,3 +43,8 @@ Edit and test the files locally, upload the changed files to the same repository
 - `assets/` — add your own images or downloadable public files here
 
 Do not upload passwords, private documents, or API keys. Publish only content you are comfortable making public.
+
+
+### Add your real profile photo
+
+The homepage currently uses `assets/profile-placeholder.svg` as a visual placeholder. Replace it with your own portrait image named `profile.jpg` inside the `assets` folder, then update the image source in `index.html` to `assets/profile.jpg`. A vertical portrait with good lighting works best.
